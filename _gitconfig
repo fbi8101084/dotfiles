@@ -1,0 +1,22 @@
+# vim: sw=4 ts=4
+[user]
+    name = nobita
+    email = nobitacity2015@gmail.com
+[color]
+    ui = auto
+    diff = auto
+    status = auto
+    branch = auto
+[push]
+    default = current
+[alias]
+    cm = commit -a
+    st = status
+    co = checkout
+    br = branch
+    cpv = commit -pv
+    pl = pull
+    ps = push
+
+[core]
+    excludesfile = ~/.gitignore
