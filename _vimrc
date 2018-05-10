@@ -18,7 +18,6 @@ set shiftwidth=4
 set history=100
 set laststatus=2
 set showmode
-set mouse=a
 
 
 colo torte
