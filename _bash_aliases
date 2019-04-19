@@ -36,6 +36,7 @@ alias g='git'
 alias gcv="git commit -v"
 alias gp="git commit -vp"
 alias gu="git pull"
+alias gur="git pull --rebase"
 alias gs="git push"
 
 alias pjson='/net/account/pixuser/nobita/github/pjson/pjson'
